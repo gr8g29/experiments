@@ -1,2 +1,2 @@
 # experiments
-A collection of small, self-contained projects and experiments.
+A collection of small, useful/fun projects and experiments.
